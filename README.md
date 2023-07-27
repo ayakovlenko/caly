@@ -2,6 +2,9 @@
 
 Simple command-line calendar.
 
+> **Warning**
+> The code is a mess!
+
 ```sh
 $ caly
 
